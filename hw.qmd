@@ -1,0 +1,7 @@
+---
+format: pdf
+author: Serena Grazioli
+title: Homework 02
+date: 18/09/2026
+toc: true
+---
