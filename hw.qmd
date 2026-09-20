@@ -9,7 +9,22 @@ toc: true
 **Quarto** is a modern sistem of scientific and technic publication open source for creating documents, web site and books using languages as *Python or R*. Its output can be in different formats as: PDF, HTML, Word
 
 # What is Git?
-**Git** is a software sistem that records the history of a project, allowing you to track every single change to the files and go back in time in case of errors.
+**Git** is a software sistem that records the history of a project, allowing you to track every single change to the files and go back in time in case of errors. The Git logo is visibible in @fig-1.
 
 # What is GitHub?
-**GitHub** is an oline platform that hosts projects managed with *Git*, acting as a secure cloud backup and a social network for software developers. 
+**GitHub** is an oline platform that hosts projects managed with *Git*, acting as a secure cloud backup and a social network for software developers.
+
+![Git logo](https://blog.netsons.com/wp-content/uploads/2016/11/57873948decae.png){#fig-1}
+
+|fruit | price |
+:--- | :--- |
+apple | 1,20 |
+orange | 0,95 |
+peach | 1,30 |
+
+: fruit prices {#tbl-fruit_prices}
+
+An apple is more expensive than an orange, as we can see in @tbl-fruit_prices
+
+# Reflection
+Working with Quarto, Positron, Git and GitHub I found the task of adding an image and a table to the document difficult. I am also having trouble committing my changes.
