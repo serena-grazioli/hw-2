@@ -5,3 +5,11 @@ title: Homework 02
 date: 18/09/2026
 toc: true
 ---
+# What is Quarto?
+**Quarto** is a modern sistem of scientific and technic publication open source for creating documents, web site and books using languages as *Python or R*. Its output can be in different formats as: PDF, HTML, Word
+
+# What is Git?
+**Git** is a software sistem that records the history of a project, allowing you to track every single change to the files and go back in time in case of errors.
+
+# What is GitHub?
+**GitHub** is an oline platform that hosts projects managed with *Git*, acting as a secure cloud backup and a social network for software developers. 
